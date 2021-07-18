@@ -67,7 +67,6 @@ text-align: right;
 
 /*start generation*/
 .generation{
-  /*  background-color: #fafafa;*/
   background-color:#fafafa;
   z-index: 0;
   height: 600px;
@@ -101,7 +100,7 @@ text-align: right;
     font-size: 15px;
 }
 .generation .img {
-    background: url(../images/bg-intro-desktop.svg);
+    background: url(images/bg-intro-desktop.svg);
     background-repeat: no-repeat;
     background-size: cover;
     float: left;
